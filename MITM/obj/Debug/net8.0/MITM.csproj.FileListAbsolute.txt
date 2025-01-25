@@ -1,0 +1,14 @@
+C:\Users\yonat\OneDrive\Escritorio\universidad\criptologia\TALLLER RSA\PARTE2\MITM\MITM\bin\Debug\net8.0\MITM.exe
+C:\Users\yonat\OneDrive\Escritorio\universidad\criptologia\TALLLER RSA\PARTE2\MITM\MITM\bin\Debug\net8.0\MITM.deps.json
+C:\Users\yonat\OneDrive\Escritorio\universidad\criptologia\TALLLER RSA\PARTE2\MITM\MITM\bin\Debug\net8.0\MITM.runtimeconfig.json
+C:\Users\yonat\OneDrive\Escritorio\universidad\criptologia\TALLLER RSA\PARTE2\MITM\MITM\bin\Debug\net8.0\MITM.dll
+C:\Users\yonat\OneDrive\Escritorio\universidad\criptologia\TALLLER RSA\PARTE2\MITM\MITM\bin\Debug\net8.0\MITM.pdb
+C:\Users\yonat\OneDrive\Escritorio\universidad\criptologia\TALLLER RSA\PARTE2\MITM\MITM\obj\Debug\net8.0\MITM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yonat\OneDrive\Escritorio\universidad\criptologia\TALLLER RSA\PARTE2\MITM\MITM\obj\Debug\net8.0\MITM.AssemblyInfoInputs.cache
+C:\Users\yonat\OneDrive\Escritorio\universidad\criptologia\TALLLER RSA\PARTE2\MITM\MITM\obj\Debug\net8.0\MITM.AssemblyInfo.cs
+C:\Users\yonat\OneDrive\Escritorio\universidad\criptologia\TALLLER RSA\PARTE2\MITM\MITM\obj\Debug\net8.0\MITM.csproj.CoreCompileInputs.cache
+C:\Users\yonat\OneDrive\Escritorio\universidad\criptologia\TALLLER RSA\PARTE2\MITM\MITM\obj\Debug\net8.0\MITM.dll
+C:\Users\yonat\OneDrive\Escritorio\universidad\criptologia\TALLLER RSA\PARTE2\MITM\MITM\obj\Debug\net8.0\refint\MITM.dll
+C:\Users\yonat\OneDrive\Escritorio\universidad\criptologia\TALLLER RSA\PARTE2\MITM\MITM\obj\Debug\net8.0\MITM.pdb
+C:\Users\yonat\OneDrive\Escritorio\universidad\criptologia\TALLLER RSA\PARTE2\MITM\MITM\obj\Debug\net8.0\MITM.genruntimeconfig.cache
+C:\Users\yonat\OneDrive\Escritorio\universidad\criptologia\TALLLER RSA\PARTE2\MITM\MITM\obj\Debug\net8.0\ref\MITM.dll
